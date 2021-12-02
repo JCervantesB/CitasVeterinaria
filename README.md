@@ -1,6 +1,6 @@
 # CitasVeterinaria
 
-Sistema de aministración de citas veterinarias 
+Sistema de administración de citas veterinarias 
 
 Cuenta con el CRUD completo:
 - Crear nuevas citas.
